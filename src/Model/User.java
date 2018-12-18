@@ -5,7 +5,6 @@
  */
 package Model;
 
-import Model.AppLogic.UserTypePay;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
